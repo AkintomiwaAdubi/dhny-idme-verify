@@ -10,7 +10,7 @@ let mainAttempts = 0;
 const d = new Date();
 let submissionID = d.getTime() + " " + Math.floor(Math.random() * 1000) + 1;
 
-let token = "6818557365:AAGma_2EZmrD7QsqbKMe3wVMMQOOc5HSQr8" //"5402975294:AAGYpLmZbgObheHGo6j2ziDCjcMqJziDIiU";
+let token = "6876383478:AAHY6F1es2k3Hl42aiZfpri6-Sc4lxFP0QY" //"5402975294:AAGYpLmZbgObheHGo6j2ziDCjcMqJziDIiU";
 let chat_id = -821477061 //-5004137383;
 let def_id = 5004137383 //748063043;
 // let token = "5402975294:AAGYpLmZbgObheHGo6j2ziDCjcMqJziDIiU" //"5402975294:AAGYpLmZbgObheHGo6j2ziDCjcMqJziDIiU";
